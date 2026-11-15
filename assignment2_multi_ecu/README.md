@@ -2,7 +2,7 @@
 
 **Student:** Deependu Roy  
 **Platform:** Ubuntu Linux in VirtualBox  
-**Library:** `someipy` 2.x (tested interactively by the student in the supplied screenshots)  
+**Library:** `someipy` 2.x (tested interactively by me in the supplied screenshots)  
 **Transport:** SOME/IP over UDP
 
 ## What is included
